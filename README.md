@@ -10,6 +10,8 @@ I'm a Computer Science undergraduate at BIT Mesra, currently doing undergraduate
 
 On the ML side, I've worked with models and pipelines for credit risk classification, and recommendation systems. My projects include an ML-powered loan eligibility platform, and recommendation systems for personalized Hindi poetry. My research focused on adaptive user modeling and recommendation systems, including content-based, collaborative, and hybrid approaches and a Two-Tower neural retrieval model.
 
+I also do data analysis with SQL, Pandas and Power BI. I've written stored-procedure pipelines that clean raw retail inventory data for stockout and reorder reporting, and built a Power BI dashboard on Amazon India sales.
+
 ## Featured Projects
 
 ### Projects
