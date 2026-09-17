@@ -6,7 +6,7 @@ BIT Mesra CSE '27 · Full-Stack & Backend Developer · Undergraduate Researcher 
 [![Email](https://img.shields.io/badge/madhurrtandon123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurrtandon123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-tandon-264b8b354)
 
-I’m a Computer Science undergraduate at BIT Mesra with experience in full-stack development, machine learning, and data analytics. I work with React/Next.js, Node.js, FastAPI, PostgreSQL, and MongoDB, and have built ML systems for credit risk and personalized recommendation. My undergraduate research focuses on adaptive user modeling and hybrid recommendation systems, including Two-Tower neural retrieval. I also work with SQL, Pandas, and Power BI, building data pipelines and dashboards for retail and sales analytics.
+Computer Science undergraduate at BIT Mesra working across full-stack development, machine learning, and data analytics. Experienced with React/Next.js, Node.js, FastAPI, PostgreSQL, and MongoDB, with projects spanning credit risk, recommendation systems, and analytics. Currently researching adaptive user modeling and neural recommendation systems, including Two-Tower retrieval.
 
 ## Featured Projects
 
